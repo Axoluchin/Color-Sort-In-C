@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1611506189 source:c:\users\huchi\onedrive\escritorio\proyectocolor\main.cpp
+	<iostream>
+	"Graficas.h"
+	"Nodo.h"
+	"BubbleSort.h"
+	"Quitshort.h"
+	"InsertionSort.h"
+	"Cocktailsort.h"
+
+1266115814 d:\codeblocks-ep-r- graph\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1611505466 c:\users\huchi\onedrive\escritorio\proyectocolor\graficas.h
+	<winbgim.h>
+	<stdlib.h>
+	<time.h>
+
+1611506290 c:\users\huchi\onedrive\escritorio\proyectocolor\nodo.h
+	<stdlib.h>
+
+1611441919 c:\users\huchi\onedrive\escritorio\proyectocolor\shorts.h
+	<stdlib.h>
+
+1611457308 c:\users\huchi\onedrive\escritorio\proyectocolor\bubblesort.h
+
+1611444860 c:\users\huchi\onedrive\escritorio\proyectocolor\quitshort.h
+
+1611449868 c:\users\huchi\onedrive\escritorio\proyectocolor\insertionsort.h
+
+1611450855 c:\users\huchi\onedrive\escritorio\proyectocolor\cocktailsort.h
+
